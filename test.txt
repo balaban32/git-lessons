@@ -1,3 +1,4 @@
 hello
 ramazan
 balaban
+stash
